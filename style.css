@@ -9,6 +9,9 @@ body {
   align-items: center;
   flex-direction: column;
 }
+h1 {
+  color: #74c2e9;
+}
 
 #calculator {
   display: flex;
